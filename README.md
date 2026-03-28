@@ -58,6 +58,7 @@ Final output table contains:
 * Learned Snowflake data loading and staging concepts
 * Implemented dbt transformations and testing
 * Understood real-world data engineering workflow
+* Explored Snowflake internal stages and COPY command for bulk data loading
 
 ## 👩‍💻 Author
 
