@@ -43,7 +43,14 @@ Final output table contains:
 
 ## 📸 Screenshots
 
-(Will Add more screenshots of Snowflake tables, query results, dbt run output if required)
+### Snowflake Table
+![Snowflake Table](table.png)
+
+### Query Output
+![Query Output](output.png)
+
+### dbt Run
+![dbt Run](run.png)
 
 ## 💡 Learning Outcome
 
